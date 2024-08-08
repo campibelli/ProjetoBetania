@@ -1,0 +1,44 @@
+##Instruções
+Luci::Quem pular algum passo vai tomar paulada! 
+
+__ Enviem os códigos para os amiguinhos, pelo Discord ou pelo Whatsapp, pra verificarem antes de jogar no git __
+__ !!Pra evitar quebrar o código!! __
+
+
+
+##Como usar o repositório
+__Instalar o Git Bash se não tiver instalado__
+
+
+###Primeiros Passos
+1 - Criar uma pasta em algum lugar do PC
+2 - (Windows 10) Botão direito dentro da pasta > Abrir Git Bash
+    (Windows 11) Botão direito dentro da pasta > Mais Opções > Abrir Git Bash
+    (Linux - escreva 20 linhas e crie uma pasta)
+3 - comando: git clone https://github.com/campibelli/ProjetoBetania/
+4 - comando: git checkout -b "SeuNomeAqui"  (Exemplo: git checkout -b "Luci")
+5 - Divirta-se :3
+Todo: Arrumar essa seção porca
+
+
+###Como Commitar mudanças
+1 - Botão Direito na pasta raiz do projeto (onde houver a primeira pasta .git)
+(TODO: imagem)
+
+2- comando: git status
+- Verificar o nome da BRANCH 
+- Verificar mudanças de arquivos
+(TODO:imagem)
+
+3 - comando: git add . (para adicionar todos os arquivos)
+(TODO: imagem)
+
+4 - comando: git commit -m "Mensagem de Commit" (Detalhe suas mudanças, POR FAVOR)
+(TODO: imagem)
+
+5 - comando: git push
+
+__Deu ruim? Verifique abaixo:
+
+- Erro: "Git set upstream"
+(TODO: seção de ajuda com erros)
